@@ -2,7 +2,7 @@
 
 # Social Network API
  
-  
+  ![link](https://github.com/samschool789/Social-Network-API/blob/main/gif/projectGif.gif)
   ## Description 
   A backend project that allows you to create users and display thoughts in the backend.
   ## Table of Contents
