@@ -2,6 +2,23 @@
   "dependencies": {
     "express": "^4.18.1",
     "mongodb": "^4.8.0",
-    "mongoose": "^6.4.4"
-  }
+    "mongoose": "^6.4.6"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "social-network-api",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samschool789/Social-Network-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samschool789/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/samschool789/Social-Network-API#readme"
 }
